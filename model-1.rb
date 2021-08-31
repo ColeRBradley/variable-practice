@@ -6,3 +6,6 @@ number2 = 50.5
 
 love_bacon = true
 hate_bacon = false
+
+school_lunch = ["pizza", "tuna sandwich", "cheesebread"]
+good_dinner = ["potroast", "steak", "lobster"]
